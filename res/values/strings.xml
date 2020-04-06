@@ -53,6 +53,7 @@
     <string name="font_type_9" translatable="false">Samsung One</string>
     <string name="font_type_10" translatable="false">Fira Sans</string>
     <string name="font_type_11" translatable="false">Ubuntu</string>
+    <string name="font_type_12" translatable="false">SegoeUI</string>
 
     <!-- Adaptive icon shapes -->
     <string name="adaptive_icon_shape_default">Default</string>
@@ -94,7 +95,12 @@
     <string name="accent_colors_red">Red</string>
     <string name="accent_colors_teal">Teal</string>
     <string name="accent_colors_yellow">Yellow</string>
-
+    <string name="accent_colors_iosyellow">iOS Yellow</string>
+    <string name="accent_colors_ioslightblue">iOS Light Blue</string>
+    <string name="accent_colors_ioslb">iOS Light Blue</string>
+    <string name="accent_colors_iosred">iOS Red</string>
+    <string name="accent_colors_iosdarkgray">iOS Dark Gray</string>
+    <string name="accent_colors_iosgreen">iOS Green</string>
     <!-- Themes -->
     <string name="theme_type_title">System theme</string>
     <string name="theme_type_summary">Select theme</string>
