@@ -32,7 +32,6 @@ import android.widget.Button;
 import androidx.preference.PreferenceManager;
 
 import com.android.internal.util.du.ThemesUtils;
-import java.util.Arrays;
 public class AccentPicker extends DialogFragment {
 
     public static final String TAG_ACCENT_PICKER = "accent_picker";
@@ -85,16 +84,11 @@ public class AccentPicker extends DialogFragment {
 
     private void initView() {
         for (int i = 0; i < mAccentButtons.length; i++) {
-            try{
             int buttonId = getResources().getIdentifier(mAccentButtons[i], "id", mContext.getPackageName());
             Button button = (Button) mView.findViewById(buttonId);
             String accent = ThemesUtils.ACCENTS[i];
-            System.out.println(accent);
             setAccent(accent, button);
             setForegroundDrawable(accent, button, getActivity());
-            } catch (Exception ex){
-              System.out.println("Exception on: > " + ThemesUtils.ACCENTS[i] + " at index " + i);
-            }
         }
     }
 
