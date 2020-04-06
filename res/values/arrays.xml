@@ -141,12 +141,11 @@
         <item>@string/accent_colors_red</item>
         <item>@string/accent_colors_teal</item>
         <item>@string/accent_colors_yellow</item>
-        <item>@string/accent_colors_iosyellow</item>
-        <item>@string/accent_colors_ioslightblue</item>
-        <item>@string/accent_colors_iosred</item>
-        <item>@string/accent_colors_iosdarkgray</item>
-        <item>@string/accent_colors_iosgreen</item>
+        <item>@string/accent_colors_iosr</item>
+        <item>@string/accent_colors_iosy</item>
         <item>@string/accent_colors_ioslb</item>
+        <item>@string/accent_colors_iosg</item>
+        <item>@string/accent_colors_iosdg</item>
     </string-array>
 
     <!-- Accent Picker Buttons -->
@@ -174,12 +173,11 @@
         <item>redAccent</item>
         <item>tealAccent</item>
         <item>yellowAccent</item>
-        <item>iosyellowAccent</item>
-        <item>ioslightblueAccent</item>
-        <item>iosredAccent</item>
-        <item>iosdarkgrayAccent</item>
-        <item>iosgreenAccent</item>
-        <item>ioslbAccent</item>
+        <item>iOSR</item>
+        <item>iOSY</item>
+        <item>iOSLB</item>
+        <item>iOSG</item>
+        <item>iOSDG</item>
     </string-array>
 
     <!-- Navbar name -->

@@ -84,7 +84,6 @@ public class AccentPicker extends DialogFragment {
     }
 
     private void initView() {
-        System.out.println(Arrays.toString(mAccentButtons));
         for (int i = 0; i < mAccentButtons.length; i++) {
             try{
             int buttonId = getResources().getIdentifier(mAccentButtons[i], "id", mContext.getPackageName());

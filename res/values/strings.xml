@@ -95,8 +95,7 @@
     <string name="accent_colors_red">Red</string>
     <string name="accent_colors_teal">Teal</string>
     <string name="accent_colors_yellow">Yellow</string>
-    <string name="accent_colors_iosyellow">iOS Yellow</string>
-    <string name="accent_colors_ioslightblue">iOS Light Blue</string>
+    <string name="accent_colors_iy">iOS Yellow</string>
     <string name="accent_colors_ioslb">iOS Light Blue</string>
     <string name="accent_colors_iosred">iOS Red</string>
     <string name="accent_colors_iosdarkgray">iOS Dark Gray</string>
