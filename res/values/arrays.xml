@@ -175,9 +175,9 @@
         <item>yellowAccent</item>
         <item>iOSR</item>
         <item>iOSY</item>
-        <item>iOSLB</item>
-        <item>iOSG</item>
         <item>iOSDG</item>
+        <item>iOSG</item>
+        <item>iOSLB</item>
     </string-array>
 
     <!-- Navbar name -->
