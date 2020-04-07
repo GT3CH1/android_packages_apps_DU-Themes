@@ -256,7 +256,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginEnd="5dp"
         android:background="@drawable/accent_picker_circle"
-        android:backgroundTint="#FF5AC8FA" />
+        android:backgroundTint="#FF8E8E93" />
     <Button
         android:id="@+id/iOSG"
         android:layout_width="60dp"
@@ -278,7 +278,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginEnd="5dp"
         android:background="@drawable/accent_picker_circle"
-        android:backgroundTint="#FF8E8E93" />
+        android:backgroundTint="#FF5AC8FA" />
 
 </LinearLayout>
 
