@@ -96,9 +96,9 @@
     <string name="accent_colors_yellow">Yellow</string>
     <string name="accent_colors_iosr">iOS Red</string>
     <string name="accent_colors_iosy">iOS Yellow</string>
-    <string name="accent_colors_ioslb">iOS Dark Gray</string>
+    <string name="accent_colors_ioslb">iOS Light Blue</string>
     <string name="accent_colors_iosg">iOS Green</string>
-    <string name="accent_colors_iosdg">iOS Light Blue</string>
+    <string name="accent_colors_iosdg">iOS Dark Gray</string>
     <!-- Themes -->
     <string name="theme_type_title">System theme</string>
     <string name="theme_type_summary">Select theme</string>

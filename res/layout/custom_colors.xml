@@ -270,7 +270,7 @@
         android:backgroundTint="#FF53d769" />
     <Button
         android:id="@+id/iOSDG"
-        android:layout_width="50dp"
+        android:layout_width="60dp"
         android:layout_height="60dp"
         android:layout_columnWeight="1"
         android:gravity="center"
